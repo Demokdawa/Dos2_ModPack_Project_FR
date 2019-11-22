@@ -24,3 +24,9 @@ Items :
 - Let There Be Tooltips! - Definitive Edition (Traduction) - https://steamcommunity.com/sharedfiles/filedetails/?id=1506230499
 
 ** **Gifts Bags :** **
+
+- Gift Bag #1 activé
+- Gift Bag #2 "Endless runner" activé
+- Gift Bag #2 "Fort Joy Magic Mirror" activé
+- Gift Bag #3 "Combat Randomizer" activé
+- Gift Bag #3 "Sourcerous Sundries" activé
