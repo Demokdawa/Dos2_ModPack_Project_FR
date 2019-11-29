@@ -6,7 +6,7 @@ Repo qui servira de base au ModPack_FR de Dos2.
 
 Classes :
 Note : Tout les mods ne seront pas pris :)
-- Divine War ou Divinity Unleashed (Traduction)
+- Divinity Unleashed (Traduction)
 - Airy - Broodlord DE (Traduction / Equilibrages) - https://steamcommunity.com/sharedfiles/filedetails/?id=1565067455
 - OdinBlade Skills and Classes (Traduction)
 - GraveWalker class (Traduction) - https://steamcommunity.com/sharedfiles/filedetails/?id=1908225808
